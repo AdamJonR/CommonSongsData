@@ -2,7 +2,8 @@
 
 This repository contains some of the data stored in the database utilized by http://commonsongs.com, a web application that
 was built to help users of the Smule karaoke application to find songs to sing together. All of the data in the file is 
-publicly visible through the Smule website, and the data is raw and unordered.
+publicly visible through the Smule website, and the data is raw and unordered. The most recent upload contains 
+over 2 million performances, and these performances span across over 20,000 singers.
 
 ## File Download
 
